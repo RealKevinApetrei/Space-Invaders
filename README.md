@@ -2,7 +2,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/RealKevinApetrei/Space-Invaders)](https://github.com/RealKevinApetrei/Space-Invaders/network)
 [![GitHub stars](https://img.shields.io/github/stars/RealKevinApetrei/Space-Invaders)](https://github.com/RealKevinApetrei/Space-Invaders/stargazers)
 [![GitHub license](https://img.shields.io/github/license/RealKevinApetrei/Space-Invaders)](https://github.com/RealKevinApetrei/Space-Invaders/blob/master/LICENSE)
-[![Twitter](https://img.shields.io/twitter/url?label=Follow&style=social&url=KevinApetrei)](https://twitter.com/KevinApetrei?ref_src=twsrc%5Etfw)
+[Follow @KevinApetrei](https://twitter.com/KevinApetrei?ref_src=twsrc%5Etfw)
 
 # Table of Contents
 - [About the Project](#about-the-project)
