@@ -1,8 +1,8 @@
 [![GitHub issues](https://img.shields.io/github/issues/RealKevinApetrei/Space-Invaders)](https://github.com/RealKevinApetrei/Space-Invaders/issues) 
-[![Forks](https://img.shields.io/github/forks/RealKevinApetrei/Space-Invaders)] (https://github.com/RealKevinApetrei/Space-Invaders/forks)
-[![Stars](https://img.shields.io/github/stars/RealKevinApetrei/Space-Invaders)] (https://github.com/RealKevinApetrei/Space-Invaders/stars)
-[![License](https://img.shields.io/github/license/RealKevinApetrei/Space-Invaders)] (https://github.com/RealKevinApetrei/Space-Invaders/license)
-[![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FRealKevinApetrei%2FSpace-Invaders%2F)] (https://twitter.com/KevinApetrei/)
+[![GitHub forks](https://img.shields.io/github/forks/RealKevinApetrei/Space-Invaders)](https://github.com/RealKevinApetrei/Space-Invaders/network)
+[![GitHub stars](https://img.shields.io/github/stars/RealKevinApetrei/Space-Invaders)](https://github.com/RealKevinApetrei/Space-Invaders/stargazers)
+[![GitHub license](https://img.shields.io/github/license/RealKevinApetrei/Space-Invaders)](https://github.com/RealKevinApetrei/Space-Invaders/blob/master/LICENSE)
+[![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FRealKevinApetrei%2FSpace-Invaders)
 
 # Table of Contents
 - [About the Project](#about-the-project)
