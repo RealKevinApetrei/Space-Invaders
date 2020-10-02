@@ -9,7 +9,7 @@ font_path = os.path.join(asset_path, "Fonts") # Font Folder Path
 
 # Game Config
 
-BUILD_VERSION = "0.45.98-public" # Build Version
+BUILD_VERSION = "0.47.12-public" # Build Version
 
 PROGRAM_NAME = "Space Invaders" # Game Game
 AUTHOR = "Kevin Apetrei" # Game Author
@@ -33,13 +33,3 @@ BEBAS_REGULAR_FONT = os.path.join(font_path, "Bebas-Regular.ttf") # Bebas Regula
 BACKGROUND_MUSIC = os.path.join(sound_path, "background_music.wav") # Background Music File
 EXPLOSION_EFFECT = os.path.join(sound_path, "explosion_effect.wav") # Explosion Effect File
 LASER_EFFECT = os.path.join(sound_path, "laser_effect.wav") # Laser Effect File
-
-"""
-CREDITS:
-
-- Icon made by 'Freepik' on 'https://www.flaticon.com/'.
-- Background made by 'https://www.freepik.com/'.
-- Player made by 'Freepik' on 'https://www.flaticon.com/'.
-- Enemy made by 'Good Ware' on 'https://www.flaticon.com/'.
-- Bullet made by 'Good Ware' on 'https://www.flaticon.com/'.
-"""

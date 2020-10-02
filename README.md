@@ -1,6 +1,19 @@
 [![Build Status](https://travis-ci.org/RealKevinApetrei/Space-Invaders.svg?branch=master)](https://travis-ci.org/RealKevinApetrei/Space-Invaders)
 
 # Table of Contents
+- [About the Project](#about-the-project)
+  - [Information](##information)
+  - [Features](##features)
+  - [Built With](##built-with)
+- [Getting Started](#getting-started)
+  - [Prerequisites](##prerequisites)
+  - [Installation](##installation)
+  - [Usage](##usage)
+  - [Roadmap](##roadmap)
+  - [Contributing](##contributing)
+  - [License](##license)
+  - [Contact](##contact)
+  - [Acknowledgements and Credits](##acknowledgements-and-credits)
 
 # About the Project
 ## Information
@@ -51,6 +64,54 @@ Other Requirements:
 - Time (Module)
 
 ## Installation
-1. Make sure you have installed all [Prerequisites]
+1. Make sure you have correctly completed [Prerequisites](##prerequisites)
+2. Clone the repository\
+   **`git clone https://github.com/RealKevinApetrei/Space-Invaders/`**
+
+## Usage
+Information on how to use the game itself.
+
+- Movement and Action:
+  - Move Left: **Left Arrow Key** or **A**
+  - Move Right: **Right Arrow Key** or **D**
+  - Fire Laser: **Space Bar**
+
+The game ends when **an alien gets too far down** at a certain point.
+
+You **earn points** for **each alien destroyed**.
+Game difficulty **increases** for **each row they pass**.
+
+(There is no documentation available.)
+
+## Roadmap
+
+See the [open issues](https://github.com/RealKevinApetrei/Space-Invaders/issues) for a list of proposed features (and known issues).
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## License
+
+Distributed under the **GPL-3.0 License**. See `LICENSE` for more information.
+
+## Contact
+
+Kevin Apetrei - [@KevinApetrei](https://twitter.com/KevinApetrei) - realkevinapetrei@gmail.com
+Project Link: https://github.com/RealKevinApetrei/Space-Invaders
+
+## Acknowledgements and Credits
+- [Video Used](https://www.youtube.com/watch?v=FfWpgLFMI7w)
+- Icon made by 'Freepik' on 'https://www.flaticon.com/'.
+- EDITED Background made by 'https://www.freepik.com/'.
+- Player made by 'Freepik' on 'https://www.flaticon.com/'.
+- Enemy made by 'Good Ware' on 'https://www.flaticon.com/'.
+- Bullet made by 'Good Ware' on 'https://www.flaticon.com/'.
 
   
