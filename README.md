@@ -106,7 +106,7 @@ Distributed under the **GPL-3.0 License**. See `LICENSE` for more information.
 
 ## Contact
 
-Kevin Apetrei - [@KevinApetrei](https://twitter.com/KevinApetrei) - realkevinapetrei@gmail.com
+Kevin Apetrei - [@KevinApetrei](https://twitter.com/KevinApetrei) - realkevinapetrei@gmail.com\
 Project Link: https://github.com/RealKevinApetrei/Space-Invaders
 
 ## Acknowledgements and Credits
