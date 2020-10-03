@@ -5,18 +5,18 @@
 
 # Table of Contents
 - [About the Project](#about-the-project)
-  - [Information](##information)
-  - [Features](##features)
-  - [Built With](##built-with)
+  - [Information](#information)
+  - [Features](#features)
+  - [Built With](#built-with)
 - [Getting Started](#getting-started)
-  - [Prerequisites](##prerequisites)
-  - [Installation](##installation)
-  - [Usage](##usage)
-  - [Roadmap](##roadmap)
-  - [Contributing](##contributing)
-  - [License](##license)
-  - [Contact](##contact)
-  - [Acknowledgements and Credits](##acknowledgements-and-credits)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Roadmap](#roadmap)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [Contact](#contact)
+  - [Acknowledgements and Credits](#acknowledgements-and-credits)
 
 # About the Project
 ## Information
