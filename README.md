@@ -67,7 +67,7 @@ Other Requirements:
 - Time (Module)
 
 ## Installation
-1. Make sure you have correctly completed the[Prerequisites](#prerequisites).
+1. Make sure you have correctly completed the [Prerequisites](#prerequisites).
 2. Clone the repository\
    **`git clone https://github.com/RealKevinApetrei/Space-Invaders/`**
 
